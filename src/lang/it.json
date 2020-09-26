@@ -1,0 +1,65 @@
+{
+    "explore": "Esplorare",
+    "explore-desc": "Trova nuovi server, emoji e altro!",
+    "servers": "Server",
+    "join-server": "Entra nel server",
+    "themes": "Temi",
+    "emoji-packs": "Pacchetti Emoji",
+    "message-styles": "Stili dei messaggi",
+    "created-by": "Creato da",
+    "filter": "Filtro",
+    "sort-by": "Ordina per",
+
+    "all": "Tutti",
+    "verified": "Verificato",
+    "most-users": "La maggior parte degli utenti",
+    "least-users": "Meno utenti",
+    "alphabetical": "Alfabetico",
+    "date-added": "Data aggiunta",
+
+    "explore-support-message": "Sostieni Nertivia donando qualsiasi somma di denaro. In futuro riceverai un badge sostenitore e altre funzionalità.",
+    "support-message-settings": "Sostieni Nertivia. Riceverai un badge.",
+    "donate": "Donare",
+
+    "join": "Aderire",
+    "join-card-message": "Unisciti al server ufficiale di Nertivia",
+    "coming-soon!": "Prossimamente!",
+
+    "joined": "Iscritto",
+    "apply": "Applicare",
+    "unapply": "Annulla applicazione",
+    "copy-link": "Copia link",
+
+    "clone": "Clone",
+    "cloning": "Clonazione ...",
+    "cloned": "Clonato",
+    "theme-safe-message": "I temi seguenti sono sicuri e rivisti manualmente.",
+
+    "friends": "Amici",
+    "pending": "in sospeso",
+    "recents": "Recenti",
+
+    "online": "in linea",
+    "away": "Lontano",
+    "busy": "Occupato",
+    "looking-to-play": "Sto cercando di giocare",
+    "offline": "Disconnesso",
+
+    "add-friends-message": "Aggiungi alcuni amici.",
+    "offline-message": "Tutti i tuoi amici sono offline.",
+    "saved-notes": "Note salvate",
+    "select-person-message": "Seleziona una persona a cui inviare il messaggio!",
+    "message": "Messaggio",
+
+    "add-server": "Aggiungi server",
+    "add-friend": "Aggiungi amico",
+    "add-friend-message": "Aggiungi amici utilizzando il loro nome utente e tag.",
+    "adding": "Aggiunta ...",
+    "create": "Creare",
+
+    "new-messages": "Nuovo messaggio",
+
+    "today-at": "Oggi alle {0}",
+    "yesterday-at": "Ieri alle {0}",
+    "send-a-message": "Mandare un messaggio"
+}
